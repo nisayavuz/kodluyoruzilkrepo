@@ -2,7 +2,7 @@
 
 Bu repo [Kodluyoruz](https://app.patika.dev/paths/baslangic-seviye-java-ile-backend-web-development-patikasi) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![görsel]()
+![görsel](https://github.com/nisayavuz/kodluyoruzilkrepo/blob/main/01.PNG?raw=true)
 
 ## Installation
 
